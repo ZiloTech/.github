@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Here is where we will have info about repo naming conventions etc..
+
 <!--
 
 **Here are some ideas to get you started:**
