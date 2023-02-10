@@ -15,7 +15,13 @@ Naming a GitHub repo seems so simple - you'd just want something that is:
 Following the naming conventions that are established keeps every repo easily discoverable, sortable and helps fellow developers find things faster.
 Github does not support the concept of groups or folders, with this in mind the following naming standard applies :
 
+{product/area/concept}-{descriptive-repo-name}
 
+The following standard prefix apply
+
+- playground-{repo} : This is a prefix used to indicate this project is for POC, testing, messing about
+- infra-{repo} : For lee to decide
+- testing-{repo} : For Any test runners
 
 
 ### What about CamelCase?
