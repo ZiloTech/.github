@@ -1,10 +1,10 @@
-# Welcome to Zilo GitHub Home
+# Welcome to Zilo GitHub
 
 Below is some useful info you should read before either creating a new repo or looking to setup pipelines.
 
 ## Creating github pipelines (actions)
 
-Re-Usable workflows should be considered where possible, if you need to do something unique and new in your pipeline consider creating a re-usable workflow so that others wishing to do the same thing can use it and not have a load of script and actions in their workflow file - when creating please consider the guidance in the workflow repo : https://github.com/ZiloTech/infra-app-workflows
+Re-Usable workflows should be considered where possible, if you need to do something unique and new in your pipeline consider creating a re-usable workflow so that others wishing to do the same thing can benefit - when creating please consider the guidance in the workflow repo : https://github.com/ZiloTech/infra-app-workflows
 
 
 
