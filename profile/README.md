@@ -1,5 +1,8 @@
 # Welcome to Zilo GitHub
 
+[![Deploy to Amazon ECS (dev)](https://github.com/ZiloTech/playground-telerik/actions/workflows/ecs-deploy.yml/badge.svg?branch=develop)](https://github.com/ZiloTech/playground-telerik/actions/workflows/ecs-deploy.yml)
+
+
 Below is some useful info you should read before either creating a new repo or looking to setup pipelines.
 
 ## Creating github pipelines (actions)
