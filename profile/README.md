@@ -12,7 +12,7 @@
 
 
 
-Below is some useful info you should read before either creating a new repo or looking to setup pipelines.
+Below is some useful info you should read before either creating a new repo or looking to setup pipelines - for more documentation please see https://ziloglobal.atlassian.net/wiki/spaces/DEV/overview
 
 ## Creating github pipelines (actions)
 
