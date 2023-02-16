@@ -1,4 +1,4 @@
-# Welcome to Zilo GitHub
+# Welcome to Zilo GitHub!
 
 
 
@@ -6,6 +6,7 @@
 |--|--|
 |Digital One Web App (Dev)|[![Deploy to Amazon ECS](https://github.com/ZiloTech/digital-one-web-app/actions/workflows/ecs-deploy.yml/badge.svg?branch=develop)](https://github.com/ZiloTech/digital-one-web-app/actions/workflows/ecs-deploy.yml)  |
 |Digital Playground (Dev)|[![Digital Playground (dev)](https://github.com/ZiloTech/playground-telerik/actions/workflows/ecs-deploy.yml/badge.svg?branch=develop)](https://github.com/ZiloTech/playground-telerik/actions/workflows/ecs-deploy.yml)|
+|Core DotNet Libraries|[![Publish Packages](https://github.com/ZiloTech/core-libraries-dotnet/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/ZiloTech/core-libraries-dotnet/actions/workflows/main.yml)|
 
 
 
